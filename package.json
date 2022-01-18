@@ -1,0 +1,14 @@
+{
+  "name": "jordidex",
+  "version": "1.0.0",
+  "description": "JordiDex Backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Jorge Barrios",
+  "license": "ISC"
+}
